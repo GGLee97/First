@@ -3,6 +3,8 @@
 
 rm(list = ls())
 
+## GIT ##
+
 # Setting the random number generator seed so that our results are reproducible
 # (Your solution doesn't need this, but it's usually good practice to do)
 
